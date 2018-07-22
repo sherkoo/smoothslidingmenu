@@ -1,5 +1,7 @@
 # Smooth Sliding Menu
 
+Navigation that opens from the left
+
 Menu Closed
 ![alt tag](https://raw.githubusercontent.com/stephenherko/smoothslidingmenu/master/screen-closed.png)
 
